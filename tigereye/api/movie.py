@@ -5,7 +5,6 @@ from tigereye.api import ApiView
 from tigereye.helper.code import Code
 
 
-
 class MovieView(ApiView):
 
     def all(self):
